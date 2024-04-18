@@ -21,6 +21,8 @@
 
 ## Credits
 
+Accessed for File Structure Guidance: https://www.freecodecamp.org/news/build-portfolio-website-react/
+
 ## Screenshots
 
 ## Video
