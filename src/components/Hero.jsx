@@ -21,7 +21,6 @@ const Hero = () => {
             </div>
         </div>
             <div className='text-7xl'>
-                Pro
             </div>
             <div className='my-auto'>
                 <img className='w-[250px] sm:w-[400px] mx-auto h-auto rounded-lg' src={proPic} alt="My Profile Pic"/>
