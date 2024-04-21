@@ -1,4 +1,47 @@
-# Getting Started with Create React App
+# E-Commerce-Back-End
+
+## Table of Contents
+
+* [Description](#description)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Credits](#credits)
+* [Screenshots](#screenshots)
+* [Video](#video)
+* [Link to Website](#link-to-website)
+* [License](#license)
+
+![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
+
+## Description
+
+## Installation
+
+## Usage
+
+## Credits
+
+Tutor Assistance Provided by Chris Baird.
+
+Initial File Set Up Source `npm create-react-app ./` CLI Root Directory.
+
+Project Done in Collaboration with Kalyn Sifuentes and Christina Carroll.
+
+## Screenshots
+
+## Video
+
+## Link to Website
+
+## License
+
+This application is licensed under the Apache 2.0 License.
+
+![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
+
+https://opensource.org/licenses/Apache-2.0
+
+<!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -67,4 +110,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
