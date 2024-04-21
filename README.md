@@ -1,4 +1,4 @@
-# E-Commerce-Back-End
+# React Portfolio
 
 ## Table of Contents
 
@@ -26,6 +26,8 @@ Tutor Assistance Provided by Chris Baird.
 Initial File Set Up Source `npm create-react-app ./` CLI Root Directory.
 
 Project Done in Collaboration with Kalyn Sifuentes and Christina Carroll.
+
+About Me Photo Source: https://depositphotos.com/photos/about-me.html
 
 ## Screenshots
 

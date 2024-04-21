@@ -20,6 +20,14 @@ const About = () => {
                         <h3 className='md:text-4xl text-2xl font-semibold text-blue'>6<span>+</span></h3>
                         <p><span className='md:text-base text-xs'>Apps</span></p>
                     </div>
+                    <div className='bg-white p-5 rounded-lg'>
+                        <h3 className='md:text-4xl text-2xl font-semibold text-blue'>9<span>+</span></h3>
+                        <p><span className='md:text-base text-xs'>Years Exp</span></p>
+                    </div>
+                    <div className='bg-white p-5 rounded-lg'>
+                        <h3 className='md:text-4xl text-2xl font-semibold text-blue'>2</h3>
+                        <p><span className='md:text-base text-xs'>Fortune500 Projects Approved</span></p>
+                    </div>
                 </div>
             </div>
         </div>
