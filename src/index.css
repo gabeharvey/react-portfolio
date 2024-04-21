@@ -6,16 +6,17 @@
 
 body {
   font-family: 'Lato', sans-serif;
+  color: #aeefff;
   background-color: rgb(8, 8, 8);
   font-weight: 800;
 }
 
 span, .primary-color {
-  background-image: linear-gradient(to left, rgb(255, 7, 7), rgb(255, 179, 179));
+  background-image: linear-gradient(to top, #00d2ff, #3a7bd5);
   -webkit-background-clip: text;
   color: transparent;
 }
 
 .bg-primary-color {
-  background-image: linear-gradient(to left, rgb(138, 7, 7), rgb(138, 105, 105));
+  background-image: linear-gradient(to top, #00d2ff, #3a7bd5);
 }
