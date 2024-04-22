@@ -19,12 +19,6 @@ const Work = () => {
             </div>
           </div>
          <div class='grid gap-3 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5'>
-            <a href='/' class='group relative flex h-60 items-end overflow-hidden rounded-lg bg-gray-300 shadow-lg md:h-75'><img src={fortuneAwardOne} loading='lazy' alt='' className='absolute inset-0 h-full w-full object-cover object-center transition duration-500 group-hover:scale-110' />
-              <div class='pointer-events-none absolute inset-0 bg-gradient-to-t from-gray-700 via-transparent to-transparent opacity-45'></div>
-            </a>
-            <a href='/' class='group relative flex h-60 items-end overflow-hidden rounded-lg bg-gray-300 shadow-lg md:h-75'><img src={fortuneAwardTwo} loading='lazy' alt='' className='absolute inset-0 h-full w-full object-cover object-center transition duration-500 group-hover:scale-110' />
-              <div class='pointer-events-none absolute inset-0 bg-gradient-to-t from-gray-700 via-transparent to-transparent opacity-45'></div>
-            </a>
             <a href='/' class='group relative flex h-60 items-end overflow-hidden rounded-lg bg-gray-300 shadow-lg md:h-75'><img src={projOneImg} loading='lazy' alt='' className='absolute inset-0 h-full w-full object-cover object-center transition duration-500 group-hover:scale-110' />
               <div class='pointer-events-none absolute inset-0 bg-gradient-to-t from-gray-700 via-transparent to-transparent opacity-45'></div>
             </a>
@@ -41,6 +35,12 @@ const Work = () => {
               <div class='pointer-events-none absolute inset-0 bg-gradient-to-t from-gray-700 via-transparent to-transparent opacity-45'></div>
             </a>
             <a href='/' class='group relative flex h-60 items-end overflow-hidden rounded-lg bg-gray-300 shadow-lg md:h-75'><img src={projSixImg} loading='lazy' alt='' class='absolute inset-0 h-full w-full object-cover object-center transition duration-500 group-hover:scale-110' />
+              <div class='pointer-events-none absolute inset-0 bg-gradient-to-t from-gray-700 via-transparent to-transparent opacity-45'></div>
+            </a>
+            <a href='/' class='group relative flex h-60 items-end overflow-hidden rounded-lg bg-gray-300 shadow-lg md:h-75'><img src={fortuneAwardOne} loading='lazy' alt='' className='absolute inset-0 h-full w-full object-cover object-center transition duration-500 group-hover:scale-110' />
+              <div class='pointer-events-none absolute inset-0 bg-gradient-to-t from-gray-700 via-transparent to-transparent opacity-45'></div>
+            </a>
+            <a href='/' class='group relative flex h-60 items-end overflow-hidden rounded-lg bg-gray-300 shadow-lg md:h-75'><img src={fortuneAwardTwo} loading='lazy' alt='' className='absolute inset-0 h-full w-full object-cover object-center transition duration-500 group-hover:scale-110' />
               <div class='pointer-events-none absolute inset-0 bg-gradient-to-t from-gray-700 via-transparent to-transparent opacity-45'></div>
             </a>
          </div>
