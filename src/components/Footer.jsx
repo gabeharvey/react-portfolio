@@ -9,7 +9,7 @@ const Footer = () => {
             <a href="https://www.linkedin.com/">
                 <FaLinkedin/>
             </a>
-            <a href="https://github.com/gabeharvey/react-portfolio">
+            <a href="https://github.com/gabeharvey">
                 <FaGithubSquare/>
             </a>
             <a href="https://www.facebook.com/">

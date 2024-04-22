@@ -15,7 +15,7 @@ const Work = () => {
           <div className='mb-4 flex items-center justify-between'>
             <div className='flex flex-col gap-4'>
               <h2 className='text-2xl lg:text-3xl text-white'>My <span>Portfolio</span></h2>
-              <p className='text-blue-500'>Included are 2 Fortune 500 company technology implementation awards and various coding projects of mine.</p>
+              <p className='text-blue-500'>Included are 2 Fortune 500 company technology implementation awards and various coding projects of mine. ALL of these repositories (Not Including Fortune500 Awards) and additional coding work can be accessed by clicking on GitHub Icon at bottom of page.</p>
             </div>
           </div>
          <div className='grid gap-3 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5'>
