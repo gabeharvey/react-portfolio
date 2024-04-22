@@ -10,10 +10,10 @@ const Navbar = () => {
     <div className='flex justify-between items-center max-w-[1240px] mx-auto h-30 px-4 text-l'>
         <h1 className='text-3xl font-bold primary-color ml-4'>Gabe Harvey</h1>
         <ul className='hidden md:flex'>
-            <li className='p-2'>About Me</li>
-            <li className='p-2'>Portfolio</li>
-            <li className='p-2'>Contact</li>
-            <li className='p-2'>Resume</li>
+            <li className='p-2'><a href='#about'>About Me</a></li>
+            <li className='p-2'><a href='#portfolio'>Portfolio</a></li>
+            <li className='p-2'><a href='#contact'>Contact</a></li>
+            <li className='p-2'><a href='#resume'>Resume</a></li>
         </ul>
     <div onClick={handleNav} className='block md:hidden'>
         {nav ? <AiOutlineClose size={24}/> : <AiOutlineMenu size={24}/>}
