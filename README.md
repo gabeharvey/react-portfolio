@@ -15,9 +15,15 @@
 
 ## Description
 
+This application is for my professional portfolio utilizing React technology. This React Portfolio utilizes the latest technologies to display information about myself, my career, my resume, a brief biography and methods for others to contact and connect with me.
+
 ## Installation
 
+This application is deployed using Netlify. No installation is necessary to view and utilize the application. The user can simply follow the link included in this README.md for access.
+
 ## Usage
+
+The user can utilize this application by clicking on the links in the Navbar to quickly navigate to that corresponding section. It is also responsive to mobile devices. If the user clicks on the hamburger menu, they can also utilize the links that will navigate them to the section they desire. The user can click on the various project pictures in the "My Portfolio" section to access that application in its entirety. The user can contact me by completing the fields in the "Contact Me" section. Once this information is submitted, I will have access to that information so I can contact the user. The user can also connect with me by utilizing the icons at the bottom of the application. My resume can be accessed along with proficiencies by clicking on "Resume" in the Navbar.
 
 ## Credits
 
@@ -27,13 +33,31 @@ Initial File Set Up Source `npm create-react-app ./` CLI Root Directory.
 
 Project Done in Collaboration with Kalyn Sifuentes and Christina Carroll.
 
+YouTube Video Accessed for File Structure Guidance: https://www.youtube.com/watch?v=ui4QG1SkGuE
+
 About Me Photo Source: https://www.freepik.com/free-photo/global-business-internet-network-connection-iot-internet-things-business-intelligence-concept-busines-global-network-futuristic-technology-background-ai-generative_49395764.htm#query=technology&position=0&from_view=keyword&track=sph&uuid=bfebb824-8fbd-4235-94c6-88cddd6f062a
 
 ## Screenshots
 
+Main Screen:
+![Alt Text](./src/assets/main-screen.png)
+
+Portfolio Screen:
+![Alt Text](./src/assets/portfolio-screen.png)
+
+Experience Screen:
+![Alt Text](./src/assets/experience-screen.png)
+
+Contact Screen:
+![Alt Text](./src/assets/contact-screen.png)
+
 ## Video
 
+N/A
+
 ## Link to Website
+
+https://sparkly-rugelach-86e142.netlify.app/
 
 ## License
 
