@@ -10,38 +10,38 @@ import fortuneAwardTwo from '../assets/fortune500awardTwo.png'
 
 const Work = () => {
   return (
-    <div class='py-6 max-w-[1200px] mx-auto' id='portfolio'>
-      <div class='mx-auto px-4 md:px-8'>
-          <div class='mb-4 flex items-center justify-between'>
-            <div class='flex flex-col gap-4'>
-              <h2 class='text-2xl lg:text-3xl text-white'>My <span>Portfolio</span></h2>
-              <p class='text-blue-500'>Included are 2 Fortune 500 company technology implementation awards and various coding projects of mine.</p>
+    <div className='py-6 max-w-[1200px] mx-auto' id='portfolio'>
+      <div className='mx-auto px-4 md:px-8'>
+          <div className='mb-4 flex items-center justify-between'>
+            <div className='flex flex-col gap-4'>
+              <h2 className='text-2xl lg:text-3xl text-white'>My <span>Portfolio</span></h2>
+              <p className='text-blue-500'>Included are 2 Fortune 500 company technology implementation awards and various coding projects of mine.</p>
             </div>
           </div>
-         <div class='grid gap-3 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5'>
-            <a href='/' class='group relative flex h-60 items-end overflow-hidden rounded-lg bg-gray-300 shadow-lg md:h-75'><img src={projOneImg} loading='lazy' alt='' className='absolute inset-0 h-full w-full object-cover object-center transition duration-500 group-hover:scale-110' />
-              <div class='pointer-events-none absolute inset-0 bg-gradient-to-t from-gray-700 via-transparent to-transparent opacity-45'></div>
+         <div className='grid gap-3 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5'>
+            <a href='/' className='group relative flex h-60 items-end overflow-hidden rounded-lg bg-gray-300 shadow-lg md:h-75'><img src={projOneImg} loading='lazy' alt='' className='absolute inset-0 h-full w-full object-cover object-center transition duration-500 group-hover:scale-110' />
+              <div className='pointer-events-none absolute inset-0 bg-gradient-to-t from-gray-700 via-transparent to-transparent opacity-45'></div>
             </a>
-            <a href='/' class='group relative flex h-60 items-end overflow-hidden rounded-lg bg-gray-300 shadow-lg md:h-75'><img src={projTwoImg} loading='lazy' alt='' className='absolute inset-0 h-full w-full object-cover object-center transition duration-500 group-hover:scale-110' />
-              <div class='pointer-events-none absolute inset-0 bg-gradient-to-t from-gray-700 via-transparent to-transparent opacity-45'></div>
+            <a href='/' className='group relative flex h-60 items-end overflow-hidden rounded-lg bg-gray-300 shadow-lg md:h-75'><img src={projTwoImg} loading='lazy' alt='' className='absolute inset-0 h-full w-full object-cover object-center transition duration-500 group-hover:scale-110' />
+              <div className='pointer-events-none absolute inset-0 bg-gradient-to-t from-gray-700 via-transparent to-transparent opacity-45'></div>
             </a>
-            <a href='/' class='group relative flex h-60 items-end overflow-hidden rounded-lg bg-gray-300 shadow-lg md:h-75'><img src={projThreeImg} loading='lazy' alt='' className='absolute inset-0 h-full w-full object-cover object-center transition duration-500 group-hover:scale-110' />
-              <div class='pointer-events-none absolute inset-0 bg-gradient-to-t from-gray-700 via-transparent to-transparent opacity-45'></div>
+            <a href='/' className='group relative flex h-60 items-end overflow-hidden rounded-lg bg-gray-300 shadow-lg md:h-75'><img src={projThreeImg} loading='lazy' alt='' className='absolute inset-0 h-full w-full object-cover object-center transition duration-500 group-hover:scale-110' />
+              <div className='pointer-events-none absolute inset-0 bg-gradient-to-t from-gray-700 via-transparent to-transparent opacity-45'></div>
             </a>
-            <a href='/' class='group relative flex h-60 items-end overflow-hidden rounded-lg bg-gray-300 shadow-lg md:h-75'><img src={projFourImg} loading='lazy' alt='' className='absolute inset-0 h-full w-full object-cover object-center transition duration-500 group-hover:scale-110' />
-              <div class='pointer-events-none absolute inset-0 bg-gradient-to-t from-gray-700 via-transparent to-transparent opacity-45'></div>
+            <a href='/' className='group relative flex h-60 items-end overflow-hidden rounded-lg bg-gray-300 shadow-lg md:h-75'><img src={projFourImg} loading='lazy' alt='' className='absolute inset-0 h-full w-full object-cover object-center transition duration-500 group-hover:scale-110' />
+              <div className='pointer-events-none absolute inset-0 bg-gradient-to-t from-gray-700 via-transparent to-transparent opacity-45'></div>
             </a>
-            <a href='/' class='group relative flex h-60 items-end overflow-hidden rounded-lg bg-gray-300 shadow-lg md:h-75'><img src={projFiveImg} loading='lazy' alt='' className='absolute inset-0 h-full w-full object-cover object-center transition duration-500 group-hover:scale-110' />
-              <div class='pointer-events-none absolute inset-0 bg-gradient-to-t from-gray-700 via-transparent to-transparent opacity-45'></div>
+            <a href='/' className='group relative flex h-60 items-end overflow-hidden rounded-lg bg-gray-300 shadow-lg md:h-75'><img src={projFiveImg} loading='lazy' alt='' className='absolute inset-0 h-full w-full object-cover object-center transition duration-500 group-hover:scale-110' />
+              <div className='pointer-events-none absolute inset-0 bg-gradient-to-t from-gray-700 via-transparent to-transparent opacity-45'></div>
             </a>
-            <a href='/' class='group relative flex h-60 items-end overflow-hidden rounded-lg bg-gray-300 shadow-lg md:h-75'><img src={projSixImg} loading='lazy' alt='' class='absolute inset-0 h-full w-full object-cover object-center transition duration-500 group-hover:scale-110' />
-              <div class='pointer-events-none absolute inset-0 bg-gradient-to-t from-gray-700 via-transparent to-transparent opacity-45'></div>
+            <a href='/' className='group relative flex h-60 items-end overflow-hidden rounded-lg bg-gray-300 shadow-lg md:h-75'><img src={projSixImg} loading='lazy' alt='' className='absolute inset-0 h-full w-full object-cover object-center transition duration-500 group-hover:scale-110' />
+              <div className='pointer-events-none absolute inset-0 bg-gradient-to-t from-gray-700 via-transparent to-transparent opacity-45'></div>
             </a>
-            <a href='/' class='group relative flex h-60 items-end overflow-hidden rounded-lg bg-gray-300 shadow-lg md:h-75'><img src={fortuneAwardOne} loading='lazy' alt='' className='absolute inset-0 h-full w-full object-cover object-center transition duration-500 group-hover:scale-110' />
-              <div class='pointer-events-none absolute inset-0 bg-gradient-to-t from-gray-700 via-transparent to-transparent opacity-45'></div>
+            <a href='/' className='group relative flex h-60 items-end overflow-hidden rounded-lg bg-gray-300 shadow-lg md:h-75'><img src={fortuneAwardOne} loading='lazy' alt='' className='absolute inset-0 h-full w-full object-cover object-center transition duration-500 group-hover:scale-110' />
+              <div className='pointer-events-none absolute inset-0 bg-gradient-to-t from-gray-700 via-transparent to-transparent opacity-45'></div>
             </a>
-            <a href='/' class='group relative flex h-60 items-end overflow-hidden rounded-lg bg-gray-300 shadow-lg md:h-75'><img src={fortuneAwardTwo} loading='lazy' alt='' className='absolute inset-0 h-full w-full object-cover object-center transition duration-500 group-hover:scale-110' />
-              <div class='pointer-events-none absolute inset-0 bg-gradient-to-t from-gray-700 via-transparent to-transparent opacity-45'></div>
+            <a href='/' className='group relative flex h-60 items-end overflow-hidden rounded-lg bg-gray-300 shadow-lg md:h-75'><img src={fortuneAwardTwo} loading='lazy' alt='' className='absolute inset-0 h-full w-full object-cover object-center transition duration-500 group-hover:scale-110' />
+              <div className='pointer-events-none absolute inset-0 bg-gradient-to-t from-gray-700 via-transparent to-transparent opacity-45'></div>
             </a>
          </div>
       </div>
