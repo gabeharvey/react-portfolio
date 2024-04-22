@@ -19,22 +19,22 @@ const Work = () => {
             </div>
           </div>
          <div className='grid gap-3 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5'>
-            <a href='/' className='group relative flex h-60 items-end overflow-hidden rounded-lg bg-gray-300 shadow-lg md:h-75'><img src={projOneImg} loading='lazy' alt='' className='absolute inset-0 h-full w-full object-cover object-center transition duration-500 group-hover:scale-110' />
+            <a href='https://stark-castle-84556-b858ceaf5d7f.herokuapp.com/' className='group relative flex h-60 items-end overflow-hidden rounded-lg bg-gray-300 shadow-lg md:h-75'><img src={projOneImg} loading='lazy' alt='' className='absolute inset-0 h-full w-full object-cover object-center transition duration-500 group-hover:scale-110' />
               <div className='pointer-events-none absolute inset-0 bg-gradient-to-t from-gray-700 via-transparent to-transparent opacity-45'></div>
             </a>
-            <a href='/' className='group relative flex h-60 items-end overflow-hidden rounded-lg bg-gray-300 shadow-lg md:h-75'><img src={projTwoImg} loading='lazy' alt='' className='absolute inset-0 h-full w-full object-cover object-center transition duration-500 group-hover:scale-110' />
+            <a href='https://gabeharvey.github.io/beat-tap/' className='group relative flex h-60 items-end overflow-hidden rounded-lg bg-gray-300 shadow-lg md:h-75'><img src={projTwoImg} loading='lazy' alt='' className='absolute inset-0 h-full w-full object-cover object-center transition duration-500 group-hover:scale-110' />
               <div className='pointer-events-none absolute inset-0 bg-gradient-to-t from-gray-700 via-transparent to-transparent opacity-45'></div>
             </a>
-            <a href='/' className='group relative flex h-60 items-end overflow-hidden rounded-lg bg-gray-300 shadow-lg md:h-75'><img src={projThreeImg} loading='lazy' alt='' className='absolute inset-0 h-full w-full object-cover object-center transition duration-500 group-hover:scale-110' />
+            <a href='https://gabeharvey.github.io/weather-dashboard/' className='group relative flex h-60 items-end overflow-hidden rounded-lg bg-gray-300 shadow-lg md:h-75'><img src={projThreeImg} loading='lazy' alt='' className='absolute inset-0 h-full w-full object-cover object-center transition duration-500 group-hover:scale-110' />
               <div className='pointer-events-none absolute inset-0 bg-gradient-to-t from-gray-700 via-transparent to-transparent opacity-45'></div>
             </a>
-            <a href='/' className='group relative flex h-60 items-end overflow-hidden rounded-lg bg-gray-300 shadow-lg md:h-75'><img src={projFourImg} loading='lazy' alt='' className='absolute inset-0 h-full w-full object-cover object-center transition duration-500 group-hover:scale-110' />
+            <a href='https://arcane-brook-36149-6bb081aaa15e.herokuapp.com/' className='group relative flex h-60 items-end overflow-hidden rounded-lg bg-gray-300 shadow-lg md:h-75'><img src={projFourImg} loading='lazy' alt='' className='absolute inset-0 h-full w-full object-cover object-center transition duration-500 group-hover:scale-110' />
               <div className='pointer-events-none absolute inset-0 bg-gradient-to-t from-gray-700 via-transparent to-transparent opacity-45'></div>
             </a>
-            <a href='/' className='group relative flex h-60 items-end overflow-hidden rounded-lg bg-gray-300 shadow-lg md:h-75'><img src={projFiveImg} loading='lazy' alt='' className='absolute inset-0 h-full w-full object-cover object-center transition duration-500 group-hover:scale-110' />
+            <a href='https://text-editor-huva.onrender.com/' className='group relative flex h-60 items-end overflow-hidden rounded-lg bg-gray-300 shadow-lg md:h-75'><img src={projFiveImg} loading='lazy' alt='' className='absolute inset-0 h-full w-full object-cover object-center transition duration-500 group-hover:scale-110' />
               <div className='pointer-events-none absolute inset-0 bg-gradient-to-t from-gray-700 via-transparent to-transparent opacity-45'></div>
             </a>
-            <a href='/' className='group relative flex h-60 items-end overflow-hidden rounded-lg bg-gray-300 shadow-lg md:h-75'><img src={projSixImg} loading='lazy' alt='' className='absolute inset-0 h-full w-full object-cover object-center transition duration-500 group-hover:scale-110' />
+            <a href='https://gabeharvey.github.io/student-coding-quiz/' className='group relative flex h-60 items-end overflow-hidden rounded-lg bg-gray-300 shadow-lg md:h-75'><img src={projSixImg} loading='lazy' alt='' className='absolute inset-0 h-full w-full object-cover object-center transition duration-500 group-hover:scale-110' />
               <div className='pointer-events-none absolute inset-0 bg-gradient-to-t from-gray-700 via-transparent to-transparent opacity-45'></div>
             </a>
             <a href='/' className='group relative flex h-60 items-end overflow-hidden rounded-lg bg-gray-300 shadow-lg md:h-75'><img src={fortuneAwardOne} loading='lazy' alt='' className='absolute inset-0 h-full w-full object-cover object-center transition duration-500 group-hover:scale-110' />

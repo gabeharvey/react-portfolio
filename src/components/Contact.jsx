@@ -17,7 +17,7 @@ const Contact = () => {
                         </div>
                     </div>
                 </div>
-                <form action='' method='post' className='p-6 flex flex-col justify-center max-w-[700px]'>
+                <form action='https://getform.io/f/pagxvomb' method='post' className='p-6 flex flex-col justify-center max-w-[700px]'>
                     <div className='flex flex-col'>
                         <input type='name' name='name' id='name' placeholder='Full Name' className='w-90 mt-2 py-2 px-3 rounded-lg' />
                     </div>
