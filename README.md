@@ -27,7 +27,7 @@ Initial File Set Up Source `npm create-react-app ./` CLI Root Directory.
 
 Project Done in Collaboration with Kalyn Sifuentes and Christina Carroll.
 
-About Me Photo Source: https://depositphotos.com/photos/about-me.html
+About Me Photo Source: https://www.freepik.com/free-photo/global-business-internet-network-connection-iot-internet-things-business-intelligence-concept-busines-global-network-futuristic-technology-background-ai-generative_49395764.htm#query=technology&position=0&from_view=keyword&track=sph&uuid=bfebb824-8fbd-4235-94c6-88cddd6f062a
 
 ## Screenshots
 
