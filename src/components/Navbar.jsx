@@ -22,7 +22,7 @@ const Navbar = () => {
             <li className='p-2'><a href='#about'>About Me</a></li>
             <li className='p-2'><a href='#portfolio'>Portfolio</a></li>
             <li className='p-2'><a href='#contact'>Contact</a></li>
-            <li className='p-2'><a href='#resume'>Resume</a></li>
+            <li className='p-2'><a href='https://emerald-willi-3.tiiny.site/'>Resume</a></li>
         </ul>
     <div onClick={handleNav} className='block md:hidden'>
         {nav ? <AiOutlineClose size={24}/> : <AiOutlineMenu size={24}/>}
@@ -33,7 +33,7 @@ const Navbar = () => {
             <li className='p-2'><a href='#about'>About Me</a></li>
             <li className='p-2'><a href='#portfolio'>Portfolio</a></li>
             <li className='p-2'><a href='#contact'>Contact</a></li>
-            <li className='p-2'><a href='#resume'>Resume</a></li>
+            <li className='p-2'><a href='https://emerald-willi-3.tiiny.site/'>Resume</a></li>
         </ul>
     </div>
     </div>
