@@ -14,8 +14,8 @@ const Work = () => {
       <div class='mx-auto px-4 md:px-8'>
           <div class='mb-4 flex items-center justify-between'>
             <div class='flex flex-col gap-4'>
-              <h2 class='text-2xl lg:text-3xl text-blue'>My <span>Portfolio</span></h2>
-              <p class='text-gray-500'>Included are 2 Fortune 500 company technology implementation awards and various coding projects of mine.</p>
+              <h2 class='text-2xl lg:text-3xl text-white'>My <span>Portfolio</span></h2>
+              <p class='text-blue-500'>Included are 2 Fortune 500 company technology implementation awards and various coding projects of mine.</p>
             </div>
           </div>
          <div class='grid gap-3 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5'>

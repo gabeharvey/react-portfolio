@@ -11,7 +11,7 @@ const About = () => {
             </div>
             <div>
                 <div className='p-3'>
-                    <div className='text-gray-300 my-3'>
+                    <div className='text-blue-400 my-3'>
                         <h3 className='text-2xl font-semibold mb-5'><span>Gabe is a Full Stack Web Developer that has a Bachelor's Degree in International Business and a Bachelor's Degree in Spanish. Gabe earned his Bachelor's Degrees from Mississippi State University in 2007</span></h3>
                     </div>
                 </div>
