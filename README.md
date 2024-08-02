@@ -45,9 +45,6 @@ Main Screen:
 Portfolio Screen:
 ![Alt Text](./src/assets/portfolio-screen.png)
 
-Experience Screen:
-![Alt Text](./src/assets/experience-screen.png)
-
 Contact Screen:
 ![Alt Text](./src/assets/contact-screen.png)
 
