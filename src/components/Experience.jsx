@@ -7,9 +7,9 @@ const Experience = () => {
             <div className='max-w-[500px] mx-auto'>
                 <div className='mb-2'>
                     <div className='bg-white p-4 rounded-3xl'>
-                        <p>Stay At Home Dad</p>
+                        <p>Harvey Timber</p>
                         <p className='text-blue-500'>(2017 - Present)</p>
-                        <p className='text-blue-600'>Father of 3 children. Served on St Matthew School Council, Co-Lead Girl Scout Troop 1522, Head Coach 3 Softball Little League Teams, Active Volunteer in Community.</p>
+                        <p className='text-blue-600'>Managing timber harvesting, planting, and thinning while streamlining prospective customer needs. Constructed and actively maintaining React application utilizing Chakra UI and MERN stack principles to facilitate current and future business requirements.</p>
                     </div>
                 </div>
                 <div className='mb-2'>
