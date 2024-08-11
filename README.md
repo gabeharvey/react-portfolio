@@ -42,9 +42,6 @@ About Me Photo Source: https://www.freepik.com/free-photo/global-business-intern
 Main Screen:
 ![Alt Text](./src/assets/main-screen.png)
 
-Portfolio Screen:
-![Alt Text](./src/assets/portfolio-screen.png)
-
 Contact Screen:
 ![Alt Text](./src/assets/contact-screen.png)
 

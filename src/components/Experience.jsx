@@ -5,10 +5,17 @@ const Experience = () => {
     <div className='py-10 bg-lightgray'>
         <h2 className='mb-8 text-3xl text-white text-center'>My <span>Experience</span></h2>
             <div className='max-w-[500px] mx-auto'>
+            <div className='mb-2'>
+                    <div className='bg-white p-4 rounded-3xl'>
+                        <p>Web7 Technologies</p>
+                        <p className='text-blue-500'>(2024 - Present)</p>
+                        <p className='text-blue-600'>Procurement of web design and web hosting clients. Assisting CEO with React Builds, WordPress, and web hosting.</p>
+                    </div>
+                </div>
                 <div className='mb-2'>
                     <div className='bg-white p-4 rounded-3xl'>
                         <p>Harvey Timber</p>
-                        <p className='text-blue-500'>(2017 - Present)</p>
+                        <p className='text-blue-500'>(2017 - 2024)</p>
                         <p className='text-blue-600'>Managing timber harvesting, planting, and thinning while streamlining prospective customer needs. Constructed and actively maintaining React application utilizing Chakra UI and MERN stack principles to facilitate current and future business requirements.</p>
                     </div>
                 </div>
